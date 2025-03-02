@@ -4,16 +4,22 @@ This project automates the configuration of a Router Access Point (AP) using a b
 
 ## Project Structure
 
-Router_AP_Automation/ 
-├── base_driver/ 
-│ ├── base_driver.py  
-│ └── credentials.json 
-├── pages_ap/ 
-│ ├── ap_config.py 
-│ └── login.py 
-└── tests/ 
-│ ├── conftest.py
-│ └── test_browser.py
+```
+Router AP Automation           
+├── base driver
+│   ├── base driver.py    
+│   └── credentials.json
+├── pages_ap
+│   ├── ap_config.py
+│   └── login.py
+├── tests
+│   ├── conftest.py
+│   └── test_browser.py
+└── utils
+    └── logger.py            # Custom logging module
+```
+
+## Prerequisites
 
 
 

@@ -36,7 +36,7 @@ Router AP Automation
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/rrakshithaa/router-ap-automation.git
+    git clone [https://github.com/rrakshithaa/router-ap-automation.git](https://github.com/rrakshithaa/Router_AP_Automation.git)
     cd router-ap-automation
     ```
 
